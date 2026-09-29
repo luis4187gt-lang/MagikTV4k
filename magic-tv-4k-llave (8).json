@@ -57,3 +57,19 @@
     }
   ]
 }
+[
+  {
+    "id": 1790642256030,
+    "titulo": "Ver Spidey y Los Vengadores: Superequipo Halloween () Online - PelisPop",
+    "sinopsis": "Spidey y los Vengadores planean Halloween pero Hallows' Eve los arruina con trucos mágicos a los niños y quiere acabar con Halloween para siempre.",
+    "portada": "https://image.tmdb.org/t/p/w300/nLhj8GhpL7njlalnIW4DIZyXyaa.jpg",
+    "portadaBase64": null,
+    "play1": "https://pelispop.mov/vidurl/tt44171293/",
+    "play2": "",
+    "categoria": "Ciencia Ficción",
+    "estreno": true,
+    "tipo": "pelicula",
+    "temporada": null,
+    "capitulo": null
+  }
+]
